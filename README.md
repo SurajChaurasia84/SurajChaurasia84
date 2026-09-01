@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Suraj Chaurasia
+### Software Developer | Mobile App Enthusiast | Android
 
-### 🚀 Flutter Developer | Mobile App Enthusiast | Tech Explorer
-
-I'm passionate about building beautiful, scalable, and user-friendly mobile applications. I enjoy turning ideas into real products while constantly learning new technologies and improving my development skills.
+Passionate about building beautiful, scalable, and user-friendly mobile applications. Turning ideas into real products while constantly learning new technologies and improving my development skills.
 
 ---
 
